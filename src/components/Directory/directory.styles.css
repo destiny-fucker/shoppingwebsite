@@ -1,0 +1,9 @@
+.categories {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 95.5%;
+    row-gap: 15px;
+    column-gap: 7.5px;
+    margin: auto;
+}

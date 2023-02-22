@@ -1,0 +1,35 @@
+.nav-bar {
+    margin-bottom: 30px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+}
+
+.logo-container {
+    flex:1;
+}
+
+.logo {
+    width: 70px;
+    margin-left: 25px;
+    cursor: pointer;
+    
+}
+
+.title-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.links-container {
+    display: flex;
+    justify-content: space-around;
+    flex:1;
+}
+
+p {
+    text-decoration: none;
+}
